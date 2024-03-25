@@ -66,10 +66,6 @@
 			<artifactId>micrometer-observation</artifactId>
 		</dependency>
 
-		<!-- OPTION 1: Open Telemetry as Bridge (RECOMMENDED) -->
-		<!-- Open Telemetry
-            - Simplified Observability (metrics, logs, and traces) -->
-
 		<dependency>
 			<groupId>io.micrometer</groupId>
 			<artifactId>micrometer-tracing-bridge-otel</artifactId>
